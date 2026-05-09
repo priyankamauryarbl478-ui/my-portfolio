@@ -54,7 +54,7 @@ export default function App() {
 
   {
     id: 2,
-    title: "Progress Tracker Web",
+    title: "CareerSetu – Productivity ",
     subtitle: "Fully developed using React.js! 🚀",
     desc:
       "This web is designed to help users stay productive by organizing tasks into Daily Goals, Monthly Goals, Pending Tasks, and History, along with a clean and modern UI.",
@@ -305,7 +305,7 @@ I’m always open to exciting opportunities, collaborations, and discussions abo
               <p className="mt-2 text-gray-700 dark:text-gray-300">Phone: <a href="tel:+919621040073" className="text-purple-400">9621040073</a></p>
 
               <div className="mt-4 flex items-center gap-4">
-                <a href="https://github.com/ashusingh41537-arch" target="_blank" rel="noreferrer" className="text-2xl transition-all duration-300 ease-in-out hover:scale-110"><FaGithub /></a>
+                <a href="https://github.com/priyankamauryarbl478-ui" target="_blank" rel="noreferrer" className="text-2xl transition-all duration-300 ease-in-out hover:scale-110"><FaGithub /></a>
                 <a href="https://www.linkedin.com/in/mauryapriyanka" target="_blank" rel="noreferrer" className="text-2xl transition-all duration-300 ease-in-out hover:scale-110"><FaLinkedin /></a>
               </div>
             </div>
